@@ -11,8 +11,10 @@ Schetckes for Arcade Cabinets
 
 * Raspberry Pi
 * [DIY Arcade Game Kit](https://fr.aliexpress.com/wholesale?SearchText=arcade+game+kit+diy)
+* [Small HiFi amplifier](https://fr.aliexpress.com/wholesale?SearchText=hifi+amplifier+diy)
 * Power supply for RPI
 * Recycled 15 inch desktop screen
+* Recycled speakers
 * HDMI cable
 
 ## Software
