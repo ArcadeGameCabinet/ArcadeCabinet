@@ -24,4 +24,6 @@ Schetckes for Arcade Cabinets
 * [RetroPie](https://retropie.org.uk/)
 * [more](https://all3dp.com/2/raspberry-pi-emulator/)
 
+## Misc
+* [RetroPie 3D Print: The Best Cases & Accessories of 2022](https://all3dp.com/2/retropie-3d-print-raspberry-pi-gameboy-case-handheld-console/)
 
