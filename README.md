@@ -21,6 +21,7 @@ Schetckes for Arcade Cabinets
 
 ## Software
 
+* [Kodi](https://kodi.tv/)
 * [RetroPie](https://retropie.org.uk/)
 * [more](https://all3dp.com/2/raspberry-pi-emulator/)
 
