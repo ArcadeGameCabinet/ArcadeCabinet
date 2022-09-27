@@ -1,5 +1,6 @@
 # Arcade Cabinet for a desk
 
-![Arcade Cabinet](./arcade2.jpg)
+![Arcade Cabinet](./miniarcade06.jpg)
+![Arcade Cabinet](./miniarcade01.jpg)
 ![Laser Cutter sketck](./ArcadeCabinetTablet.svg)
 
