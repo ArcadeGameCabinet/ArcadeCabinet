@@ -6,7 +6,7 @@ Schetckes for Arcade Cabinets
 * [Desk format](./desk)
 * [Laptop format](./laptop)
 
-![Arcade Cabinet](./desk/arcade2.jpg)
+![Arcade Cabinet](./desk/miniarcade06.jpg)
 ![Laptop Arcade Cabinet](./laptop/ArcadeCabinetLaptop-1.jpg)
 
 ## Components
