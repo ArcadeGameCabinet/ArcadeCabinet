@@ -1,6 +1,6 @@
-# Arcade Cabinets
+# Arcade Game Cabinets
 
-Schetckes for Arcade Cabinets
+Schetckes for Arcade Game Cabinets
 
 ## Sketches
 * [Desk format](./desk)
@@ -25,6 +25,7 @@ Schetckes for Arcade Cabinets
 * [RetroPie](https://retropie.org.uk/)
 * [more](https://all3dp.com/2/raspberry-pi-emulator/)
 
-## Misc
+## Misc 
 * [RetroPie 3D Print: The Best Cases & Accessories of 2022](https://all3dp.com/2/retropie-3d-print-raspberry-pi-gameboy-case-handheld-console/)
+* [My very own CRT Arcade Cabinet](https://github.com/nkyriazis/my_crt_arcade_cabinet)
 
